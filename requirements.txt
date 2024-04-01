@@ -1,0 +1,9 @@
+gradio
+innertube
+opencv-python
+pillow
+streamlink
+super-gradients
+tiktoken
+typing-extensions
+ultralytics
